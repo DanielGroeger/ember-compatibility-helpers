@@ -21,7 +21,7 @@
     "prepack": "node ./build/write-declaration-file"
   },
   "dependencies": {
-    "babel-plugin-debug-macros": "^0.2.0",
+    "babel-plugin-debug-macros": "^0.3.3",
     "ember-cli-version-checker": "^2.1.1",
     "semver": "^5.4.1"
   },
